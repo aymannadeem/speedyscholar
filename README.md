@@ -1,6 +1,6 @@
 ## **Summaries of academic papers.**
 
-This is an open-source initiative dedicated to summarizing research papers and scholarly articles. Valuable information is often couched in confusing, academic jargon. This project aims to make papers more accessible and shorter to consume. 
+This is an open-source initiative dedicated to summarizing research papers and scholarly articles. Valuable information is often couched in confusing, academic jargon. This project aims to make papers more accessible and shorter to consume.
 
 **Contribution guidelines**
 
@@ -13,7 +13,7 @@ This is an open-source initiative dedicated to summarizing research papers and s
 * Someone who wants to understand a complex topic easily
 * People outside of the healthcare field who are interested in topics related to medical breakthrough
 * Anyone with a strong intellectual appetite who doesn't have the time it takes to read and understand deeply technical papers
-* Lazy bums like me 🐨
+* Lazy bums 🐨
 
 
 
