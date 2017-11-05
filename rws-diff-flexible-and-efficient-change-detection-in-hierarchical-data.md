@@ -1,2 +1,1 @@
 [_RWS-Diff: Flexible and Efficient Change Detection in Hierarchical Data_](https://db.in.tum.de/~finis/papers/RWS-Diff.pdf), Jan Finis, Martin Raiber, Nikolaus Augsten, Robert Brunel, Alfons Kemper, Franz Färber. Presents an O\(_nlogn_\) approximation to the minimal tree edit sequence problem \(tree diffing\) which relies on hashing, random number generators, large-dimensional feature vectors, and techniques originating in computer vision to compare them.
-
