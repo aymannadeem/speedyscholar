@@ -1,4 +1,6 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [Introduction](README.md)
+* [Data types a la carte](first-question.md)
+* [Freer Monads, More Extensible Effects](second-question.md)
+
