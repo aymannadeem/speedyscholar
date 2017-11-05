@@ -11,9 +11,8 @@ This is an open-source initiative dedicated to summarizing research papers and s
 
 * Software developers that want to implement ideas rooted in academia, without having to uncover a ton of academic jargon
 * Someone who wants to understand a complex topic easily
-* Patients who want to understand a new medical breakthrough
-
-
+* People outside of the healthcare field who are interested in topics related to medical breakthrough
+* Anyone curious, with a strong intellectual appetite who doesn't have the time it takes to read and understand deeply technical papers
 
 
 
