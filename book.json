@@ -1,9 +1,6 @@
 {
     "gitbook": ">=3.2.0",
     "links": {
-        "sidebar": {
-            "Need help? Talk to us!": "https://gitter.im/DjangoGirls/tutorial"
-        }
     },
     "pdf": {
         "fontSize": 16
@@ -14,7 +11,6 @@
         "richquotes@0.0.9",
         "github@2.0.0",
         "language-picker",
-        "sidebar-ad",
         "codeblock-label",
         "sectionx"
     ],
@@ -26,7 +22,7 @@
             "default": false
         },
         "github": {
-            "url": "https://github.com/DjangoGirls/tutorial"
+            "url": "https://github.com/aymannadeem/speedyscholar"
         },
         "language-picker": {
             "grid-columns": 3
