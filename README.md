@@ -1,6 +1,6 @@
 ## **Summaries of academic papers.**
 
-This is an open-source initiative dedicated to summarizing research papers and scholarly articles. Valuable information is often couched in confusing, academic jargon. This project aims to make papers more accessible, easier to consume and shorter to read.
+This is an open-source initiative dedicated to summarizing research papers and scholarly articles. Valuable knowledge is often couched in confusing, academic jargon. This project aims to make papers more accessible, easier to consume and shorter to read.
 
 **Contribution guidelines**
 
