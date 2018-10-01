@@ -9,8 +9,4 @@
 * [The pq-Gram Distance between Ordered Labeled Trees](the-pq-gram-distance-between-ordered-labeled-trees.md)
 * [Efficient and Flexible Incremental Parsing](efficient-and-flexible-incremental-parsing.md)
 * [Abstracting Definitional Interpreters](abstracting-definitional-interpreters.md)
-<<<<<<< HEAD
 * [Deep Code Comment Generation](deep-code-comment-generation.md)
-=======
-
->>>>>>> b298bd034df5350706bc8c3e58cc80c21f70dacc
