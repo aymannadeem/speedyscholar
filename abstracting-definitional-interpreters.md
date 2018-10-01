@@ -1,0 +1,2 @@
+[_Abstracting Definitional Interpreters_](https://plum-umd.github.io/abstracting-definitional-interpreters/), David Darais, Nicholas Labich, Phúc C. Nguyễn, David Van Horn. A beautiful, compositional, extensible framework for code analysis depending on a case-wise interpreter for a given language. In addition to the analyses defined in the paper, it makes excellent scaffolding for experimenting with new analyses.
+
