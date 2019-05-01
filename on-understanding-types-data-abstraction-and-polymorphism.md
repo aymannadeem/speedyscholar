@@ -1,0 +1,2 @@
+[_On understanding types, data abstraction, and polymorphism ](http://lucacardelli.name/papers/onunderstanding.a4.pdf), Luca Cardelli, Peter Wegner. An introductory text. Starting from a basic functional programming language, the authors show why "for-all" and "exists" types (quantified types) make sense as general patterns to structure programs: for-all types give parametric polymorphism, and exists types give modules (information hiding). They also point out connections to object-oriented programming and subtyping, leading up to quantified types with subtype bounds.
+
